@@ -60,8 +60,7 @@ So far in this lesson, you've designed the view controllers in the storyboard, a
 
 #### - Retrieve Answers with Actions
 
-
-## Respond to Answered Questions
+#### - Respond to Answered Questions
 
 
 ## Part Five—: alculate and Display Results 
