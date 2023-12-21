@@ -1,7 +1,7 @@
 # PersonalityQuiz_iOS
 Personality Quiz IOS is a short interactive questionnaire to guess what animal type you are; based from App Development with Swift iBook.
 
-## Part One—Project Planning
+## Part One: Project Planning
 
 What features are required to produce a fun personality quiz? Since this is probably your first app of this type, keep the list short. At a minimum, the app should accomplish three main goals: 」
 
@@ -18,7 +18,7 @@ Every UIViewController subclass you create is, in fact, a controller. A view con
 With a single view controller for all the questions and answers in your quiz, you'll want to display only the buttons, switches, slider, and/or labels that match the current question. The simplest and best way to do this is to group the controls within a view that corresponds to the question type. The appropriate view—for single-answer, multiple-answer, or ranged response—can then be shown or hidden.
 
 
-## Part Two—Project Setup
+## Part Two: Project Setup
 
 ### Create the Introduction Screen
 
@@ -33,7 +33,7 @@ The second view controller will display each question, one at a time, along with
 After the player has finished the quiz, the app will display the results, along with a short description. The player should have some way to dismiss the results and return to the introduction screen so that another player can take the quiz.
 
 
-## Part Three—Create Questions and Answers
+## Part Three: Create Questions and Answers
 
 During the project planning phase, you considered three different question types: single-answer, multiple-answer, and ranged response. Now take some time to come up with your list of questions.
 
@@ -46,7 +46,7 @@ During the project planning phase, you considered three different question types
 ### Question Label and Progress
 
 
-## Part Four—Models and Outlets
+## Part Four: Models and Outlets
 
 So far in this lesson, you've designed the view controllers in the storyboard, and you've got three UIViewController subclasses ready to receive some code. Create structures that hold the question data and to update the user interface based on the values of each question and its answers. Once the data has been laid out, you can update the user interface based on which question is being displayed.
 
@@ -64,7 +64,7 @@ So far in this lesson, you've designed the view controllers in the storyboard, a
 ## Respond to Answered Questions
 
 
-## Part Five—Calculate and Display Results 
+## Part Five—: alculate and Display Results 
 
 The final steps include calculating the results, presenting them, and dismissing the results screen so that the quiz is ready for a new player. 」
 
